@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: e900b88d558054c7e9896e4bc1d7894c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1226490726432437690
+    second: Burger Pacman Spritesheet_0
+  - first:
+      213: 4469271708425165256
+    second: Burger Pacman Spritesheet_1
+  - first:
+      213: 888031818202910803
+    second: Burger Pacman Spritesheet_2
+  - first:
+      213: -4967615196725353308
+    second: Burger Pacman Spritesheet_3
+  - first:
+      213: 8406514905980050061
+    second: Burger Pacman Spritesheet_4
+  - first:
+      213: 8438762706061370829
+    second: Burger Pacman Spritesheet_5
+  - first:
+      213: 7459086630936881103
+    second: Burger Pacman Spritesheet_6
+  - first:
+      213: 8853301416926658876
+    second: Burger Pacman Spritesheet_7
+  - first:
+      213: -6032046808722403064
+    second: Burger Pacman Spritesheet_8
+  - first:
+      213: -3723607222369889627
+    second: Burger Pacman Spritesheet_9
+  - first:
+      213: -3031764643756518883
+    second: Burger Pacman Spritesheet_10
+  - first:
+      213: -478152318784353918
+    second: Burger Pacman Spritesheet_11
+  - first:
+      213: 9160332431442369358
+    second: Burger Pacman Spritesheet_12
+  - first:
+      213: -6181661491186626664
+    second: Burger Pacman Spritesheet_13
+  - first:
+      213: 8779421131784559493
+    second: Burger Pacman Spritesheet_14
+  - first:
+      213: -7638291536724093672
+    second: Burger Pacman Spritesheet_15
+  - first:
+      213: 73249315038500046
+    second: Burger Pacman Spritesheet_16
+  - first:
+      213: -8431928766987456116
+    second: Burger Pacman Spritesheet_17
+  - first:
+      213: -7205313367880467777
+    second: Burger Pacman Spritesheet_18
+  - first:
+      213: 1343986579319288753
+    second: Burger Pacman Spritesheet_19
+  - first:
+      213: -5909000447645106710
+    second: Burger Pacman Spritesheet_20
+  - first:
+      213: 7122021293799304819
+    second: Burger Pacman Spritesheet_21
+  - first:
+      213: 3238764760490601921
+    second: Burger Pacman Spritesheet_22
+  - first:
+      213: 4535186956723443077
+    second: Burger Pacman Spritesheet_23
+  - first:
+      213: -3810111096660007854
+    second: Burger Pacman Spritesheet_24
+  - first:
+      213: -5740207767209158888
+    second: Burger Pacman Spritesheet_25
+  - first:
+      213: -8389653916692106638
+    second: Burger Pacman Spritesheet_26
+  - first:
+      213: 745293539172810093
+    second: Burger Pacman Spritesheet_27
+  - first:
+      213: -2307660082617015931
+    second: Burger Pacman Spritesheet_28
+  - first:
+      213: -383460865653914187
+    second: Burger Pacman Spritesheet_29
+  - first:
+      213: 9022425237005754304
+    second: Burger Pacman Spritesheet_30
+  - first:
+      213: 4909039715243283603
+    second: Burger Pacman Spritesheet_31
+  - first:
+      213: 6470893392023223296
+    second: Burger Pacman Spritesheet_32
+  - first:
+      213: -4442908712358788067
+    second: Burger Pacman Spritesheet_33
+  - first:
+      213: 4889896130236414844
+    second: Burger Pacman Spritesheet_34
+  - first:
+      213: 6740957917354457459
+    second: Burger Pacman Spritesheet_35
+  - first:
+      213: -6981041274168157204
+    second: Burger Pacman Spritesheet_36
+  - first:
+      213: -7884546206842320869
+    second: Burger Pacman Spritesheet_37
+  - first:
+      213: 4455077280542303298
+    second: Burger Pacman Spritesheet_38
+  - first:
+      213: 7717371649923096200
+    second: Burger Pacman Spritesheet_39
+  - first:
+      213: 3435552136831107602
+    second: Burger Pacman Spritesheet_40
+  - first:
+      213: 2081763391932602592
+    second: Burger Pacman Spritesheet_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2575
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5f05541de550110800000000000000
+      internalID: 1226490726432437690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2575
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9926980fa060e30800000000000000
+      internalID: 4469271708425165256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2575
+        width: 466
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3509a31db3ce25c00800000000000000
+      internalID: 888031818202910803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2575
+        width: 450
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a46a525c4c7f0bb0800000000000000
+      internalID: -4967615196725353308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 2575
+        width: 434
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a97f174c0f9a470800000000000000
+      internalID: 8406514905980050061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 2575
+        width: 434
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc52a9e78f18c1570800000000000000
+      internalID: 8438762706061370829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2879
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7abd955cff38760800000000000000
+      internalID: 7459086630936881103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2831
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31406d5bbe3dda70800000000000000
+      internalID: 8853301416926658876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2799
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8019299f26dd94ca0800000000000000
+      internalID: -6032046808722403064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2751
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a25093b5f6135cc0800000000000000
+      internalID: -3723607222369889627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2063
+        width: 434
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12dd469e120de5d0800000000000000
+      internalID: -3031764643756518883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2175
+        width: 34
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289445adff24d59f0800000000000000
+      internalID: -478152318784353918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2063
+        width: 434
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bdc9810d9002f70800000000000000
+      internalID: 9160332431442369358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2175
+        width: 82
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f0c1820a3563aa0800000000000000
+      internalID: -6181661491186626664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2063
+        width: 434
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b93950105c6d970800000000000000
+      internalID: 8779421131784559493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 2175
+        width: 114
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81510b611565ff590800000000000000
+      internalID: -7638291536724093672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2063
+        width: 498
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec419ea2ddb340100800000000000000
+      internalID: 73249315038500046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 2063
+        width: 498
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81b050f575cbfa80800000000000000
+      internalID: -8431928766987456116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 2063
+        width: 497
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba7c14daa5910c90800000000000000
+      internalID: -7205313367880467777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1551
+        width: 498
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3f7335cacc6a210800000000000000
+      internalID: 1343986579319288753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1551
+        width: 498
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed3d7c66630ffda0800000000000000
+      internalID: -5909000447645106710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1551
+        width: 498
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eeca3f1a086d260800000000000000
+      internalID: 7122021293799304819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1551
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd6814d36762fc20800000000000000
+      internalID: 3238764760490601921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1551
+        width: 466
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5855c79328830fe30800000000000000
+      internalID: 4535186956723443077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1551
+        width: 450
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2546ec8f424cf1bc0800000000000000
+      internalID: -3810111096660007854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1039
+        width: 450
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8175f8ad27fa650b0800000000000000
+      internalID: -5740207767209158888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1039
+        width: 450
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2723a1b8636f19b80800000000000000
+      internalID: -8389653916692106638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1039
+        width: 466
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6df9cf6680d75a00800000000000000
+      internalID: 745293539172810093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1039
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581a341a16b89ffd0800000000000000
+      internalID: -2307660082617015931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1039
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b54f65df5cadaaf0800000000000000
+      internalID: -383460865653914187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1039
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf5f3043f7163d70800000000000000
+      internalID: 9022425237005754304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3945c5f9c99602440800000000000000
+      internalID: 4909039715243283603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c77fa714b3dc950800000000000000
+      internalID: 6470893392023223296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 527
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14cd5ec01e9752c0800000000000000
+      internalID: -4442908712358788067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 527
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b7c476f966cd340800000000000000
+      internalID: 4889896130236414844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 527
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379f4cdb281bc8d50800000000000000
+      internalID: 6740957917354457459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 527
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebddd2c2fb5e1f90800000000000000
+      internalID: -6981041274168157204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18820ebff6749290800000000000000
+      internalID: -7884546206842320869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24423a1ce2d93dd30800000000000000
+      internalID: 4455077280542303298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 15
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e165190ac991b60800000000000000
+      internalID: 7717371649923096200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 15
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212072357788daf20800000000000000
+      internalID: 3435552136831107602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger Pacman Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e81e8a76c8e3ec10800000000000000
+      internalID: 2081763391932602592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Burger Pacman Spritesheet_0: 1226490726432437690
+      Burger Pacman Spritesheet_1: 4469271708425165256
+      Burger Pacman Spritesheet_10: -3031764643756518883
+      Burger Pacman Spritesheet_11: -478152318784353918
+      Burger Pacman Spritesheet_12: 9160332431442369358
+      Burger Pacman Spritesheet_13: -6181661491186626664
+      Burger Pacman Spritesheet_14: 8779421131784559493
+      Burger Pacman Spritesheet_15: -7638291536724093672
+      Burger Pacman Spritesheet_16: 73249315038500046
+      Burger Pacman Spritesheet_17: -8431928766987456116
+      Burger Pacman Spritesheet_18: -7205313367880467777
+      Burger Pacman Spritesheet_19: 1343986579319288753
+      Burger Pacman Spritesheet_2: 888031818202910803
+      Burger Pacman Spritesheet_20: -5909000447645106710
+      Burger Pacman Spritesheet_21: 7122021293799304819
+      Burger Pacman Spritesheet_22: 3238764760490601921
+      Burger Pacman Spritesheet_23: 4535186956723443077
+      Burger Pacman Spritesheet_24: -3810111096660007854
+      Burger Pacman Spritesheet_25: -5740207767209158888
+      Burger Pacman Spritesheet_26: -8389653916692106638
+      Burger Pacman Spritesheet_27: 745293539172810093
+      Burger Pacman Spritesheet_28: -2307660082617015931
+      Burger Pacman Spritesheet_29: -383460865653914187
+      Burger Pacman Spritesheet_3: -4967615196725353308
+      Burger Pacman Spritesheet_30: 9022425237005754304
+      Burger Pacman Spritesheet_31: 4909039715243283603
+      Burger Pacman Spritesheet_32: 6470893392023223296
+      Burger Pacman Spritesheet_33: -4442908712358788067
+      Burger Pacman Spritesheet_34: 4889896130236414844
+      Burger Pacman Spritesheet_35: 6740957917354457459
+      Burger Pacman Spritesheet_36: -6981041274168157204
+      Burger Pacman Spritesheet_37: -7884546206842320869
+      Burger Pacman Spritesheet_38: 4455077280542303298
+      Burger Pacman Spritesheet_39: 7717371649923096200
+      Burger Pacman Spritesheet_4: 8406514905980050061
+      Burger Pacman Spritesheet_40: 3435552136831107602
+      Burger Pacman Spritesheet_41: 2081763391932602592
+      Burger Pacman Spritesheet_5: 8438762706061370829
+      Burger Pacman Spritesheet_6: 7459086630936881103
+      Burger Pacman Spritesheet_7: 8853301416926658876
+      Burger Pacman Spritesheet_8: -6032046808722403064
+      Burger Pacman Spritesheet_9: -3723607222369889627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
