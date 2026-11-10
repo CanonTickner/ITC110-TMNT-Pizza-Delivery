@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu-forestofdoom.unity
-    guid: 2929c25e1b92c40fd90b86f33dd047d8
-  - enabled: 1
-    path: Assets/Scenes/ForestOfDoom_Level1_crt25a.unity
-    guid: f80e01c0482dc4e99abbb2e1c69e3e68
+    path: Assets/Scenes/TitleTMNT.unity
+    guid: 8d31dd660b10e44c4a57f0aea9d41fee
   - enabled: 1
     path: Assets/Scenes/TMNTLevel.unity
     guid: 7ee124ca8639947ab80bf91fc4fc409b
