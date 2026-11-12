@@ -3,49 +3,41 @@ using UnityEngine.SceneManagement;
 
 public class EpicFail : MonoBehaviour
 {
-    public LevelManager LM;
+    private bool isResetting = false;
 
-    void Start()
-    {
-        if (LM == null)
-        {
-            LM = GameObject.Find("Canvas").GetComponent<LevelManager>();
-        }
-    }
-
+    // Triggers if the obstacle's Collider 2D has "Is Trigger" CHECKED
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            Debug.Log("there went Triangle Boy!");
-
-            if (LM != null)
-            {
-                // 1. Subtract a life
-                LM.numberOfLives--;
-
-                // 2. Update the UI text
-                LM.lifeCounterText.SetText("Lives: " + LM.numberOfLives);
-
-                // 3. Check if out of lives
-                if (LM.numberOfLives <= 0)
-                {
-                    // Full reset when all lives are lost
-                    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-                }
-                else
-                {
-                    // Respawn player at the checkpoint / spawn point
-                    other.transform.position = LM.spawnPoint;
-
-                    // Reset physics velocity so the player doesn't carry momentum
-                    Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
-                    if (rb != null)
-                    {
-                        rb.linearVelocity = Vector2.zero;
-                    }
-                }
-            }
+            FullReset();
         }
+    }
+
+    // Triggers if the obstacle's Collider 2D has "Is Trigger" UNCHECKED (solid obstacle)
+    public void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            FullReset();
+        }
+    }
+
+    private void FullReset()
+    {
+        if (isResetting) return;
+        isResetting = true;
+
+        Debug.Log("Game Over - Full Reset!");
+
+        // 1. Stop the timer and reset the score counter to 0
+        if (ScoreManager.Instance != null)
+        {
+            ScoreManager.Instance.StopScoring();
+            ScoreManager.Instance.ResetScore();
+        }
+
+        // 2. Reload the entire level so all pickups and positions reset
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

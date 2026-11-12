@@ -151,5 +151,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91399e9c71826486f8f3c77e74ce0d6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PizzaRestaurantPickup
-  pickupSound: {fileID: 8300000, guid: c5cb0927cbb7e40a89e065ed42217ed0, type: 3}
+  pickupSound: {fileID: 8300000, guid: 8b94cfe9c50934c8d8c1a69e21f15aad, type: 3}
   soundVolume: 1
