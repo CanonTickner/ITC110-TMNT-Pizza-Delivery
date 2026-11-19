@@ -3,11 +3,10 @@ using UnityEngine;
 [RequireComponent(typeof(Collider2D))]
 public class CoinPickup : MonoBehaviour
 {
-    [Header("Audio")]
-    [Tooltip("Audio clip played when the turtle collects this coin.")]
+    [Header("Optional Override Audio (Leave empty if set on ScoreManager)")]
     [SerializeField] private AudioClip pickupSound;
     [Range(0f, 1f)]
-    [SerializeField] private float soundVolume = 0.8f;
+    [SerializeField] private float soundVolume = 0.5f;
 
     private bool collected;
 
@@ -19,17 +18,14 @@ public class CoinPickup : MonoBehaviour
         {
             collected = true;
 
-            // Play the audio clip at the camera position so the 2D audio isn't muted or attenuated
-            if (pickupSound != null)
-            {
-                Vector3 soundPosition = Camera.main != null ? Camera.main.transform.position : transform.position;
-                AudioSource.PlayClipAtPoint(pickupSound, soundPosition, soundVolume);
-            }
-
-            // Add score and disable the coin
             if (ScoreManager.Instance != null)
             {
-                ScoreManager.Instance.AddScore(1);
+                ScoreManager.Instance.CollectCoin();
+
+                if (pickupSound != null)
+                {
+                    ScoreManager.Instance.PlaySFX(pickupSound, soundVolume);
+                }
             }
 
             gameObject.SetActive(false);
