@@ -20,7 +20,7 @@ public class MainMenuManager : MonoBehaviour
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadScene("TMNTLevel");
     }
 
     public void OpenOptions()
